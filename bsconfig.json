@@ -3,7 +3,7 @@
   "reason": {
     "react-jsx": 3
   },
-  "bsc-flags": ["-bs-super-errors"],
+  "bsc-flags": ["-bs-super-errors", "-open Belt"],
   "sources": [
     {
       "dir": "src",
