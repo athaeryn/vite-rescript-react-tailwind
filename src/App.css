@@ -1,3 +1,4 @@
 .App {
-  text-align: center;
+  @apply h-screen;
+  @apply bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500;
 }
